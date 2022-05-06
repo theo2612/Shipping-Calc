@@ -1,2 +1,2 @@
 # Shipping Calc
- simple shipping calculatot
+ simple shipping calculator
